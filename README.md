@@ -19,7 +19,7 @@
       </td>
       <td width="40%" align="center" valign="middle">
         <a href="https://pokemondb.net/pokedex/shinx">
-          <img src="https://media.discordapp.net/attachments/1158474893202038906/1486855235124072468/8DrwrAAAAAGSURBVAMA5WZByGdEWTAAAAAASUVORK5CYII.png?ex=69c70558&is=69c5b3d8&hm=34493a84180f78861dabd441ce6ea497f738859949203aa39be25c43135ede52&=&format=webp&quality=lossless&width=615&height=615" alt="Shinx" width="240">
+          <img src="https://cdn.discordapp.com/attachments/1120758237986291826/1489400443124846814/8DrwrAAAAAGSURBVAMA5WZByGdEWTAAAAAASUVORK5CYII.png?ex=69d047c1&is=69cef641&hm=2a874c9a5fe728e51a41df5dccb2037b72eac53d098eb7073fd8b3596c6bd8bd" alt="Shinx" width="240">
         </a> 
       </td>
     </tr>
